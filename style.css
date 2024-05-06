@@ -1,4 +1,9 @@
-.section {
-    background-color: darkolivegreen;
+section {
     color: aliceblue;
+    font-size: 30px;
+    display: flex;
+    
+}
+body {
+    background-color: darkolivegreen;
 }
